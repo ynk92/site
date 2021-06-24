@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Teste 3</title>
+</head>
+<body>
+    <h1 id="principal">Principal</h1>
+       <h2 class="subtitulo">Subtítulo</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae dignissimos fugit alias vero ab, reprehenderit accusantium? Distinctio voluptatum similique magni ipsa impedit eligendi minima! Recusandae modi ut alias consectetur animi.</p>
+    <br>
+    <h1>Secundário</h1>
+       <h2 class="subtitulo">Subtítulo</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum aliquid magni hic voluptatem ad optio illo ab, reiciendis quis! Pariatur itaque delectus distinctio, sequi libero numquam cupiditate molestiae dolore ab?</p>
+    <div id="d1">01</div>
+    <div id="d2">02</div>
+    <div id="d3">03</div>
+</body>
+</html>
